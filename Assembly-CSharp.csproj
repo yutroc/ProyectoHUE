@@ -44,6 +44,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\FollowPlayer.cs" />
+     <Compile Include="Assets\Parallax.cs" />
+     <Compile Include="Assets\PlayerMotor.cs" />
      <Compile Include="Assets\Uni2D\Sprite\Scripts\BinarizedImage.cs" />
      <Compile Include="Assets\Uni2D\Sprite\Scripts\CircularLinkedList.cs" />
      <Compile Include="Assets\Uni2D\Sprite\Scripts\CircularLinkedListNode.cs" />
